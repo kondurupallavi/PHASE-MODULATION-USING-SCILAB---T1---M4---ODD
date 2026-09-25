@@ -5,7 +5,7 @@
 To implement and analyze Phase Modulation (PM) using Scilab.
 
 ## Apparatus Required
-1. **Software:** Scilab environment
+1. **Software:** Scilab environment 
 2. **Hardware:** Personal Computer
 
 ---
